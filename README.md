@@ -6,5 +6,6 @@ antd  react-router-dom
 # 安装过的包
 yarn add react-router-dom<br/>
 yarn add antd<br/>
+准备定制主题的，弄了很久还是没生效，放弃。
 
 
